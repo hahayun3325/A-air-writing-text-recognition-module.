@@ -1,3 +1,3 @@
-An in-air writing interaction interface which leveraged both mediapipe and TPS-MobileNet-BiLSTM-Attention (TMBA) model for in-air writing recognition.
+This interface utilizes an innovative approach for in-air writing recognition, combining the capabilities of MediaPipe with the TPS-MobileNet-BiLSTM-Attention (TMBA) model. This integration allows for precise and efficient recognition of writing gestures performed in the air.
 
-More details, please refer to the paper:  Kong, Xiangjie, et al. "FedAWR: An Interactive Federated Active Learning Framework for Air Writing Recognition." IEEE Transactions on Mobile Computing, 2023
+For a comprehensive understanding and more detailed information, please refer to the paper by Kong, Xiangjie, et al., published in IEEE Transactions on Mobile Computing, 2023.

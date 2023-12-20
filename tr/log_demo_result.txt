@@ -1,0 +1,110 @@
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\artificial_62.png	artificial               	0.9999
+./test_image\character.png	rowe                     	0.5003
+./test_image\notebook_62.png	notebook                 	0.9999
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\artificial_62.png	articition               	0.2187
+./test_image\character.png	tin                      	0.5720
+./test_image\notebook_62.png	notebook                 	0.9759
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\artificial_62.png	articition               	0.2187
+./test_image\character.png	tin                      	0.5720
+./test_image\notebook_62.png	notebook                 	0.9759
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\notebook_62.png	notebook                 	0.9760
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9995
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
+--------------------------------------------------------------------------------
+image_path               	predicted_labels         	confidence score
+--------------------------------------------------------------------------------
+./test_image\suggestion_62.png	suggestion               	0.9998
